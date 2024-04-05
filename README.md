@@ -30,4 +30,5 @@ The Horiseon website homepage's code is being refactored in this project. The pr
 
 ## Links
 [Link to Remote Repository](https://github.com/mwahba624/HTML-CSS-and-Git-Code-Refactor)
+[Link to Code Refactor](https://mwahba624.github.io/HTML-CSS-and-Git-Code-Refactor/)
 
